@@ -1,15 +1,14 @@
 {
-  "outline": "sandals",
+  "outline": "Jackets",
   "product_model": {
-    "merchant_product_model_id": "MODEL_ID_123",
+    "merchant_product_model_id": "25",
     "product_model_attributes": {
-      "name": "AIR FORCE SANDALS 1 '07 LV8 UTILITY",
-      "brand_code": "ns1",
+      "name": "DOUDOUNE_LONGUE_EN_CUIR_REMBOURREE",
+      "brand_code": "SRRS",
       "size_group": {
-        "size": "4MU1000E2A"
+        "size": "1"
       },
       "target_genders": [
-        "target_gender_male",
         "target_gender_female"
       ],
       "target_age_groups": [
@@ -18,98 +17,37 @@
     },
     "product_configs": [
       {
-        "merchant_product_config_id": "7b077fc4-fde3-47d4-8b25-97af8792",
+        "merchant_product_config_id": "3274",
         "product_config_attributes": {
-          "color_code.primary": "001",
+          "color_code.primary": "074",
           "description": {
-            "en": "Nice sandals",
-            "de": "Gute Sandale",
-            "ru": "Отличные сандали"
+            "en": "For effective protection against the cold of this winter, here is the warm down jacket you need. It is a high-end model entirely made of quilted lamb leather with a classic collar. It will keep you warm thanks to its polyester lining that is covered on its entire surface with the brand logo",
+            "de": "Für einen wirksamen Schutz vor der Kälte dieses Winters ist hier die warme Daunenjacke, die Sie brauchen. Es ist ein High-End-Modell, das vollständig aus gestepptem Lammleder mit klassischem Kragen besteht. Es hält Sie warm dank seines Polyesterfutters, das auf seiner gesamten Oberfläche mit dem Markenlogo bedeckt ist",
+            "ru": "Для эффективной защиты от холода этой зимой вам нужен теплый пуховик. Это модель высокого класса, полностью изготовленная из стеганой кожи ягненка с классическим воротником. Он согреет вас благодаря подкладке из полиэстера, на всю поверхность которой нанесен логотип бренда"
           },
           "material.upper_material_clothing": [
             {
-              "material_code": "li",
-              "material_percentage": 97.5
-            },
-            {
-              "material_code": "el",
-              "material_percentage": 2.5
+              "material_code": "cuir_agneau",
+              "material_percentage": 100
             }
           ],
           "media": [
             {
-              "media_path": "https://hosting_of_your_choice/media/7b077fc4-fde3-47d4-8b25-97af8792/pic-1.jpg",
+              "media_path": "https://serruriersofficiel.fr/647-large_default/doudoune-longue-en-cuir-rembourree.jpg",
               "media_sort_key": 1
-            },
-            {
-              "media_path": "https://hosting_of_your_choice/media/7b077fc4-fde3-47d4-8b25-97af8792/pic-2.jpg",
-              "media_sort_key": 2
             }
           ],
-          "washing_instructions": "washing_instructions_4106",
-          "season_code": "fs20",
-          "supplier_color": "white"
+          "washing_instructions": "ne_pas_laver",
+          "season_code": "ah_2022",
+          "supplier_color": "blanc"
         },
         "product_simples": [
           {
-            "merchant_product_simple_id": "white-shoes-1105AA",
+            "merchant_product_simple_id": "blanc-jacket-3274-1",
             "product_simple_attributes": {
               "ean": "3760353350142",
               "size_codes": {
-                "size": "42"
-              }
-            }
-          },
-          {
-            "merchant_product_simple_id": "white-shoes-2216BB",
-            "product_simple_attributes": {
-              "ean": "3760353350142",
-              "size_codes": {
-                "size": "44.5"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "merchant_product_config_id": "7b077fc4-fde3-47d4-8b25-97af8793",
-        "product_config_attributes": {
-          "color_code.primary": "608",
-          "description": {
-            "en": "Nice sandals",
-            "de": "Gute Sandale",
-            "ru": "Отличные сандали"
-          },
-          "material": [
-            {
-              "material_code": "li",
-              "material_percentage": 87.5
-            },
-            {
-              "material_code": "el",
-              "material_percentage": 12.5
-            }
-          ],
-          "media": [
-            {
-              "media_path": "https://hosting_of_your_choice/media/7b077fc4-fde3-47d4-8b25-97af8793/pic-1.jpg",
-              "media_sort_key": 1
-            },
-            {
-              "media_path": "https://hosting_of_your_choice/media/7b077fc4-fde3-47d4-8b25-97af8793/pic-2.jpg",
-              "media_sort_key": 2
-            }
-          ],
-          "season_code": "fs20",
-          "supplier_color": "mint"
-        },
-        "product_simples": [
-          {
-            "merchant_product_simple_id": "mint-shoes-3326CC",
-            "product_simple_attributes": {
-              "ean": "3760353350142",
-              "size_codes": {
-                "size": "44.5"
+                "size": "xs"
               }
             }
           }
